@@ -57,7 +57,7 @@ python app.py
 
 http://127.0.0.1:5000
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 
 Add user authentication (login/signup).
 
@@ -69,7 +69,7 @@ Add search and filter functionality.
 
 Improve chart visuals and add more analytics.
 
-📚 Learnings
+## 📚 Learnings
 
 This project helped me strengthen my skills in:
 
@@ -85,6 +85,6 @@ Implementing Light/Dark Mode toggle
 
 Building real-world web applications
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
