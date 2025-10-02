@@ -39,7 +39,7 @@ This project allows users to track daily expenses, categorize them, and view vis
 ## ⚡ Installation
 
 1. **Clone the repository**
-```bash
+
 git clone https://github.com/Abhinavjangid22/expense-tracker.git
 cd expense-tracker
 
