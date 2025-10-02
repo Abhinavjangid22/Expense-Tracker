@@ -1,0 +1,25 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.card {
+    background: #1e1e1e;
+}
+
+table th {
+    background-color: #333;
+    color: white;
+}
+
+table td {
+    color: white;
+}
+
+input, select {
+    background-color: #2a2a2a;
+    color: white;
+    border: 1px solid #555;
+}
