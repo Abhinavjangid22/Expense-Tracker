@@ -23,15 +23,6 @@ This project allows users to track daily expenses, categorize them, and view vis
 - **Charts:** Matplotlib
 - **UI Enhancements:** Custom CSS
 
----
-
-## 📌 Screenshots
-
-![Home Page](screenshots/home.png)  
-*Home page with add expense form and expense list.*
-
-![Dashboard](screenshots/dashboard.png)  
-*Category-wise expense summary with pie chart.*
 
 ---
 
@@ -54,19 +45,32 @@ http://127.0.0.1:5000
 ## 🎯 Future Improvements
 
 Add user authentication (login/signup).
+
 Add monthly/yearly expense summaries.
+
 Export expense data to CSV or PDF.
+
 Add search and filter functionality.
+
 Improve chart visuals and add more analytics.
 
 ## 📚 Learnings
+
 This project helped me strengthen my skills in:
+
 Flask for backend development
+
 HTML/CSS for responsive UI design
+
 SQLite for lightweight database management
+
 Matplotlib for data visualization
+
 Implementing Light/Dark Mode toggle
+
 Building real-world web applications
 
+
 ## 📄 License
+
 This project is licensed under the MIT License.
