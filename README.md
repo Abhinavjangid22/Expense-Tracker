@@ -1,17 +1,6 @@
 # 💰 Expense Tracker Web App
 
-A modern, sleek, and interactive Expense Tracker web application developed using Flask, SQLite, and HTML/CSS.
-This application empowers users to efficiently manage their daily expenses by allowing them to:
-
-Add and track expenses in real time.
-
-Categorize expenses for better financial organization.
-
-Visualize spending trends through intuitive summaries and charts.
-
-Switch between Light Mode and Dark Mode for a comfortable user experience.
-
-This project is designed to combine simplicity with functionality, making expense management effortless and visually appealing.
+This is a modern, attractive, and interactive Expense Tracker web application built with Flask, SQLite, and HTML/CSS. It allows users to effortlessly track their daily expenses, categorize them for better financial organization, and view clear visual summaries to understand spending patterns. The application features both Light Mode and Dark Mode, offering a smooth and visually appealing user experience. Designed with simplicity and functionality in mind, this project makes managing personal finances easy and engaging.
 
 ---
 
